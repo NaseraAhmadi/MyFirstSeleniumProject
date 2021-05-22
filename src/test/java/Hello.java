@@ -3,6 +3,9 @@ public class Hello {
 
         int num = 500;
         String name = "Richard";
-        System.out.println("name = " + name);
+        System.out.println("name = " + name + " has " + num);
+
+        // work 1
+
     }
 }
