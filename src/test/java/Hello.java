@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("name = " + name + " has " + num);
 
         // work 1
+        // work 2
 
     }
 }
